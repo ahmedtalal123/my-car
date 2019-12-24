@@ -1,0 +1,43 @@
+h1,h2{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+    float: center;
+}
+
+button{
+    display: block;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+
+header{
+    background-image: url(https://www.toyota.com/imgix/content/vehicle-landing/2020/corolla/features/video/COR_MY20_TYZJ6373000H_mobile_v1.png?w=600&dpr=1&q=40&fm=jpg&lossless=false&fit=max&cs=strip&bg=fff&auto=compress&);
+    background-repeat: no-repeat;
+    background-size: 1500px 1500px;
+    background-position: center;
+    padding: 400px;
+}
+
+#p1{
+   text-align: center; 
+}
+
+#p2{
+    text-align: center;
+}
+
+#p3{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    background-color: blue;
+}
+
+footer{
+    color: white;
+}
